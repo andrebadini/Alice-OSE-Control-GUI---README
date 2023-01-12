@@ -121,5 +121,6 @@ There are 14 types of window transparency available for **macOS** and 6 for **Wi
 | App optimization    | 🗹 not started | Review and refactor code to increase app performance (less usage of hardware resources).                       |
 | Android release     | 🗹 not started | Android version was not released yet because of an issue with usb permission on some versions of the platform. |
 | Add macOS design    | 🗹 not started | Implement macOS design for macOS (the current app's design follows the Fluent UI for Windows only).            |
-| Add material design | 🗹 not started | Implement material design for Android (the current app's design follows the Fluent UI for Windows only)..                                                                        |
+| Add material design | 🗹 not started | Implement material design for Android (the current app's design follows the Fluent UI for Windows only)..                                                                        | Add wireless connection | 🗹 not started | Add wireless connection to the exoskeleton.                                                                        |
+|
 
