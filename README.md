@@ -29,34 +29,6 @@ Check out the **Alice OSE (Open Source) Exoskeleton** page at [Indi Global Page]
 | macOS    | ✅      | BigSur or later |
 | Android  | ⛔     | -               |
 
-## Contents
-
-<details>
-<summary>Contributing & Resources</summary>
-
-- [alice_ose_control](#Alice OSE Control (GUI))
-    - [Features](#Features)
-    - [Platforms](#Platforms)
-    - [Contents](#Contents)
-    
-</details>
-
-<details>
-<summary>Screenshots</summary>
-
-- [Screenshots](#screenshots)
-    - [MacosWindow](#ManageConnection)
-    - [MacosScaffold](#StandingMenu)
-    - [Modern Window Look](#GeneralMenu)
-    - [ToolBar](#ProfilePage)
-    - [MacosListTile](#Console)
-    - [MacosTabView](#Settings)
-      - [ThemeMode](#Theme Mode)
-      - [NavigationPaneDisplayMode](#Navigation Pane Display Mode)
-      - [WindowTransparency](#Window Transparency)
-      - [AccentColor](#Accent Color)
-      - [Locale](#Locale)
-</details>
 
 ---
 # Screenshots
