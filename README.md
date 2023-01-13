@@ -4,6 +4,8 @@ Unofficial multi-platform app to control Alice Open Source Exoskeleton, written 
 
 Check out the **Alice OSE (Open Source) Exoskeleton** page at [Indi Global Page](http://www.indi.global/aliceose).
 
+<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/Captura%20de%20tela%202023-01-12%20215926.jpg?raw=true" width="160%"/>
+
 <img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/aliceLight.png?raw=true" width="160%"/>
 
 ## Features
