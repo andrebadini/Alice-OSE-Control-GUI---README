@@ -4,7 +4,12 @@ Unofficial multi-platform app to control Alice Open Source Exoskeleton, written 
 
 Check out the **Alice OSE (Open Source) Exoskeleton** page at [Indi Global Page](http://www.indi.global/aliceose).
 
+Windows:
+
 <img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/Captura%20de%20tela%202023-01-12%20215926.jpg?raw=true" width="160%"/>
+
+
+macOS:
 
 <img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/aliceLight.png?raw=true" width="160%"/>
 
@@ -35,82 +40,19 @@ Check out the **Alice OSE (Open Source) Exoskeleton** page at [Indi Global Page]
 ---
 # Screenshots
 
-## ManageConnection
-
-`Connection` is the initial menu for manage connections to the serial port of the Exoskeleton.
-
-<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/darkMode.png?raw=true"/>
-
-It has a stream to listen serial port event (device attachment). 
-
-Supports a `usb-serial` and `bluetooth`connection (bluetooth is not ready at Arduino side).
-
-## StandingMenu
-
-Provides controls of the Exoskeleton, such as stepping, walking routine, sitting, and others controls.
-
-<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/standing.png?raw=true" width="75%"/>
-
-Besides, provides automatic counting and control of session time and steps.
-
-<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/stepsControl.png?raw=true" width="75%"/>
-
-## GeneralMenu
-
-Provides controlled exoskeleton movements.
-
-<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/generalMenu.png?raw=true" width="75%"/>
-
-## ProfilePage
-On the profile page it is possible to add, change or delete users.
-
-User session logs are saved locally (NoSQL) and shown in this menu, where the user can manage it.
-
-<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/profile.png?raw=true" width="75%"/>
-
-## Console
-
-Option for any need for debugging, it opens in a second window and provides information about sending and receiving commands to the serial port.
-
-<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/console.png?raw=true" width="45%"/>
+<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/darkTransparency.png?raw=true" width="160%"/>
 
 
-## Settings
-
-### Theme Mode
-
-| Dark Theme                                                                                                                         | Light Theme                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/darkMode.png?raw=true"/> | <img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/standingLightWindows.png?raw=true" width="75%"/> |
-
-### Navigation Pane Display Mode
+<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/standingLightWindows.png?raw=true" width="160%"/>
 
 
-| Top                                                                                                                    | Open                                                                                                                  |
-|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/top.png?raw=true"/>      | <img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/open.png?raw=true"/>    |
-| Compact                                                                                                                | Minimal                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------------    | --------------------------------------------------------------------------------------------------------------------  |
-| <img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/compact.png?raw=true"/> |   <img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/minimal.png?raw=true"/>                                                                                                                    |                                                                                                                    |
+<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/consoleMultiWindow.png?raw=true" width="160%"/>
 
 
-### Window Transparency
-
-There are 14 types of window transparency available for **macOS** and 6 for **Windows**.
+<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/generalMenu.png?raw=true" width="160%"/>
 
 
-| macOS window effect                        | Windows window effect                      |
-|--------------------------------------------|--------------------------------------------|
-| <img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/transparencyMacOS.png?raw=true"/> | <img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/standingDarkWindows.png?raw=true"/> | 
-
-
-### Accent Color
-<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/accentColor.png?raw=true"/>
-
-
-### Locale
-
-<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/locale.png?raw=true"/>
+<img src="hhttps://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/profile.png?raw=true" width="160%"/>
 
 
 
