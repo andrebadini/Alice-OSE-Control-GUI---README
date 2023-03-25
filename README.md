@@ -52,8 +52,7 @@ macOS:
 <img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/generalMenu.png?raw=true" width="160%"/>
 
 
-<img src="hhttps://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/profile.png?raw=true" width="160%"/>
-
+<img src="https://github.com/andrebadini/Alice-OSE-Control-GUI---README/blob/main/Screenshots/profile.png?raw=true" width="160%"/>
 
 
 # TODO
